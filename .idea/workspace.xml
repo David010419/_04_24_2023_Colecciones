@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1993d90a-a854-4d2f-bf63-fb0af16d9960" name="Changes" comment="" />
+    <list default="true" id="1993d90a-a854-4d2f-bf63-fb0af16d9960" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_24_2023_Colecciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/modelo/MenorEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/modelo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/EjercicioSetString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarGenericoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarSet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OsemCCXNQuvabWV4giEJB4JjDa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +49,87 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/david/IdeaProjects/Proyecto_classse/_03_29_2023_String/src/com/hedima/presentacion/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.EjercicioSetString">
+    <configuration name="EjercicioLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hedima.presentacion.EjercicioLista" />
+      <module name="_04_24_2023_Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hedima.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hedima.presentacion.EjercicioSet" />
+      <module name="_04_24_2023_Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hedima.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioSetString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hedima.presentacion.EjercicioSetString" />
+      <module name="_04_24_2023_Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hedima.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarGenericoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hedima.presentacion.ProbarGenericoList" />
+      <module name="_04_24_2023_Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hedima.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hedima.presentacion.ProbarList" />
+      <module name="_04_24_2023_Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hedima.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjercicioSetString" />
+        <item itemvalue="Application.ProbarGenericoList" />
+        <item itemvalue="Application.EjercicioLista" />
+        <item itemvalue="Application.ProbarList" />
+        <item itemvalue="Application.EjercicioSet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
